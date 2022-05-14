@@ -1,8 +1,8 @@
 ### Oii, Eu sou a Ellen Camila ❤
 
-- 🔭 Hoje eu estou procurando emprego
-- 🌱 Estou estudando Análise e Desenvolvimento de Sistemas
-- 👩🏾‍💻 Estou estudando Interfaces de Aplicativos com o Figma
+- 🔭 Hoje eu estou procurando emprego como Desenvolvedor Front-End Junior
+- 🌱 Estou estudando HTML 5 / CSS 3 / JavaScript / ReactJS
+- 👩🏾‍💻 Estou no 2º bimestre da faculdade - Análise e Desenvolvimento de Sistemas
 - 😄 Pronouns: ela/dela
 
 <div align="center">
@@ -15,7 +15,6 @@
   <img align="center" alt="Ellen-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Ellen-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ellen-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Ellen-gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/963187754596962346/963197423977635872/Webp.net-gifmaker.gif">
 </div>
   
   ##
