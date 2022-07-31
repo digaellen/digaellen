@@ -2,7 +2,7 @@
 
 - 🔭 Hoje eu estou procurando emprego como Desenvolvedor Front-End Junior
 - 🌱 Estou estudando HTML 5 / CSS 3 / JavaScript / ReactJS
-- 👩🏾‍💻 Estou no 2º bimestre da faculdade - Análise e Desenvolvimento de Sistemas
+- 👩🏾‍💻 Estou no 2º semestre da faculdade - Análise e Desenvolvimento de Sistemas
 - 💘 Amo design, faço tudo pelo Figma
 - 😄 Pronouns: ela/dela
 
