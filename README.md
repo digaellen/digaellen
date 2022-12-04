@@ -3,7 +3,7 @@
 - 🔭 Hoje eu estou procurando emprego como Desenvolvedor Front-End Junior
 - 🌱 Estou estudando HTML 5 / CSS 3 avançado
 - 🎈 E comecando os estudos com JavaScript / ReactJS
-- 🏦 Sei o básico de MySQL e PHPmyAdmin
+- 🏦 Sei o básico de Linguagem C e Python
 - 👩🏾‍💻 Estou no 2º semestre da faculdade - Análise e Desenvolvimento de Sistemas
 - 💘 Amo design, faço tudo pelo Figma
 - 😄 Pronouns: ela/dela
