@@ -1,7 +1,7 @@
 ### Oii, Eu sou a Ellen Camila ❤
 
-- 🔭 Hoje eu estou procurando emprego como Desenvolvedora Junior
-- 🌱 Estou estudando HTML 5 / CSS 3 avançado
+- 🔭 Estagiária de Data Analytics no GPA
+- 🌱 Estou estudando HTML 5 | CSS 3 avançado
 - 🏦 Sei o básico de Linguagem C e Python
 - 👩🏾‍💻 Estou no 3º semestre da faculdade - Análise e Desenvolvimento de Sistemas
 - 💘 Amo design, faço tudo pelo Figma
