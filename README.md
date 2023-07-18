@@ -1,9 +1,9 @@
-### Oii, Eu sou a Ellen Camila ❤
+### Oii, Eu sou a Ellen ❤
 
 - 🔭 Estagiária de Data Analytics no GPA
-- 🌱 Estou estudando HTML 5 | CSS 3 avançado
-- 🏦 Sei o básico de Linguagem C e Python
-- 👩🏾‍💻 Estou no 3º semestre da faculdade - Análise e Desenvolvimento de Sistemas
+- 🌱 Estou estudando Python para Data Science
+- 🏦 Sei o básico de Linguagem C e um pouco mais sobre HTML 5 e CSS 3
+- 👩🏾‍💻 Estou no 4º semestre da faculdade - Análise e Desenvolvimento de Sistemas
 - 💘 Amo design, faço tudo pelo Figma
 - 😄 Pronouns: ela/dela
 
