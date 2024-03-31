@@ -1,11 +1,10 @@
 ### Oii, Eu sou a Ellen ❤
 
-- 🔭 Estagiária de Data Analytics no GPA
+- 🔭 Analista de Business Intelligence na ammo.varejo
 - 🌱 Estou estudando Python para Data Science
-- 🏦 Sei o básico de Linguagem C e um pouco mais sobre HTML 5 e CSS 3
-- 👩🏾‍💻 Estou no 4º semestre da faculdade - Análise e Desenvolvimento de Sistemas
+- 🏦 PowerBI, SQL e Excel Avançados
+- 👩🏾‍💻 Formada em Análise e Desenvolvimento de Sistemas
 - 💘 Amo design, faço tudo pelo Figma
-- 😄 Pronouns: ela/dela
 
 
   
