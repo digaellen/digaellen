@@ -1,10 +1,10 @@
-### Oii, Eu sou a Ellen ❤
+### Hi, I'm Ellen ❤
 
-- 🔭 Analista de Business Intelligence na ammo.varejo
-- 🌱 Estou estudando Python para Data Science
-- 🏦 PowerBI, SQL e Excel Avançados
-- 👩🏾‍💻 Formada em Análise e Desenvolvimento de Sistemas
-- 💘 Amo design, faço tudo pelo Figma
+- 🔭 Business Intelligence Analyst at ammo.varejo
+- 🌱 I'm studying Python for Data Science
+- 🏦 Advanced PowerBI, SQL and Excel
+- 👩🏾‍💻 Graduated in Systems Analysis and Development
+- 💘 I love design, I do everything for Figma
 
 
   
